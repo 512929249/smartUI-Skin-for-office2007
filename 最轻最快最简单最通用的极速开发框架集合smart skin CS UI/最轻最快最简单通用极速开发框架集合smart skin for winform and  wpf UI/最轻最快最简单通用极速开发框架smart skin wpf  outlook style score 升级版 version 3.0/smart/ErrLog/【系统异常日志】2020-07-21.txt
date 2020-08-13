@@ -1,0 +1,50 @@
+2020-07-21 20:16:23发生未知异常:
+System.IO.FileNotFoundException: 未能找到文件“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”。
+文件名:“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   在 System.Drawing.Icon..ctor(String fileName)
+   在 smart.MainWindow.IconShow() 位置 D:\smart  wpf\smart\smart\MainWindow.xaml.cs:行号 34
+--------------------------------------------------------------------------------------------
+2020-07-21 20:20:19发生未知异常:
+System.IO.FileNotFoundException: 未能找到文件“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”。
+文件名:“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   在 System.Drawing.Icon..ctor(String fileName)
+   在 smart.MainWindow.IconShow() 位置 D:\smart  wpf\smart\smart\MainWindow.xaml.cs:行号 35
+--------------------------------------------------------------------------------------------
+2020-07-21 20:26:33发生未知异常:
+System.IO.FileNotFoundException: 未能找到文件“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”。
+文件名:“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   在 System.Drawing.Icon..ctor(String fileName)
+   在 smart.MainWindow.IconShow() 位置 D:\smart  wpf\smart\smart\MainWindow.xaml.cs:行号 35
+--------------------------------------------------------------------------------------------
+2020-07-21 20:31:24发生未知异常:
+System.IO.FileNotFoundException: 未能找到文件“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”。
+文件名:“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   在 System.Drawing.Icon..ctor(String fileName)
+   在 smart.MainWindow.IconShow() 位置 D:\smart  wpf\smart\smart\MainWindow.xaml.cs:行号 35
+--------------------------------------------------------------------------------------------
+2020-07-21 20:31:42发生未知异常:
+System.IO.FileNotFoundException: 未能找到文件“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”。
+文件名:“D:\smart  wpf\smart\smart\bin\Debug\bell.ico”
+   在 System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   在 System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   在 System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   在 System.Drawing.Icon..ctor(String fileName, Int32 width, Int32 height)
+   在 System.Drawing.Icon..ctor(String fileName)
+   在 smart.MainWindow.IconShow() 位置 D:\smart  wpf\smart\smart\MainWindow.xaml.cs:行号 35
+--------------------------------------------------------------------------------------------
